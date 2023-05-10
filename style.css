@@ -1,0 +1,191 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+
+body{
+
+font-family: 'garamond', serif;}
+
+#name{
+ color:#5c4033;
+  font-weight:bold;
+
+}
+h1{
+  font-size:65px;
+  margin-top:100px;
+}
+
+h2{
+  font-size:50px;
+  font-weight: bold;
+}
+img{
+	background-size: 500px;
+ margin-top:95px;
+}
+
+
+.topbar{
+  background-color:white;
+  font-size: 18px;
+}
+
+.navbar-brand,.navbar-toggler-icon,.nav-item,.nav-link,.navbarNav {color:black;}
+
+.intro{
+   background-color:#E8DED1
+}
+.about{
+  
+  background-color:lightsteelblue;
+}
+#button{
+
+  text-align:center;
+
+}
+
+.work{
+  padding-top:100px;
+  background-color:#D8CBC4;
+}
+
+#carouselExampleIndicators{
+	width:500px;
+	height:700px;
+}
+
+#carousel2{
+  width:800px;
+  height:950px;
+}
+
+#logos{
+margin-left:130px;
+margin-bottom:200px;
+}
+
+#about-text{
+margin-top:100px;
+}
+.text3{
+  padding-bottom: 50px;
+}
+
+.timeline {
+  position: relative;
+  padding: 50px 0;
+}
+
+.timeline:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  width: 3px;
+  margin-left: -1px;
+  background-color:#7E481C;
+}
+
+.timeline-item {
+  position: relative;
+  margin-bottom: 50px;
+ 
+}
+
+.timeline-item:before {
+  content: '';
+  display: table;
+  clear: both;
+
+}
+
+.timeline-icon {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  margin-left: -25px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: ;
+  border: 3px solid #4B382C; 
+  font-size: 20px;
+  text-align: center;
+  line-height: 44px;
+  background-color:#63452A;
+}
+
+.timeline-content {
+  position: relative;
+  margin-left: 40px;
+
+}
+
+.timeline-title {
+  margin-top: 0;
+ 
+  font-size: 20px;
+  color: #333;
+}
+
+.timeline-description {
+  
+}
+
+.timeline-date {
+  color: #5A5A5A;
+  font-style: italic;
+}
+.card-text{
+  margin-top:300px;
+  
+}
+#text2{
+padding-left:530px;
+
+
+}
+
+#UX{
+margin-top:200px;
+background-color:#E8DED1
+}
+
+ #scouttext{
+  padding-top:px;
+  background-color:#E8DED1
+ }
+
+ #UXheading{
+  font-size: 150px;
+  background-color:#E8DED1
+ }
+
+#sectiontwo{
+  text-align: left;
+
+}
+#text-right{
+  margin-left:50px;
+  padding-top:250px;
+ 
+}
+#treatmentimg{
+ padding-left:10px;
+ margin-left:100px;
+}
+
+#Adobe{
+ 
+  background-color:#E8DED1
+  padding-top: 50px;
+}
+#cd{
+  padding-top: 80px;
+  background-color: blueviolet;
+}
+#Contact{
+  padding-top:70px;
+  background-color:lightsteelblue;
+}
